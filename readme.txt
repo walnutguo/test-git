@@ -3,4 +3,4 @@ Hello Git.   BBB
 gogogo
 
 
-creating a new branch  like  "dev" and master.
+creating a new branch  like  merge-merge.
